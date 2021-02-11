@@ -134,3 +134,4 @@ export * from './biorxiv.org';
 export * from './epaper.zeit.de';
 export * from './observador.pt';
 export * from './www.dn.pt';
+export * from './www.jornaldenegocios.pt';
